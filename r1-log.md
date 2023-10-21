@@ -1,4 +1,4 @@
-# #100DaysOfCode Log - Round 1 - [Your Name Here]
+# #100DaysOfCode Log - Round 1 - Simon Lowes
 
 The log of my #100DaysOfCode challenge. Started on [21st October, Saturday, 2023].
 
@@ -29,5 +29,3 @@ The log of my #100DaysOfCode challenge. Started on [21st October, Saturday, 2023
 11: Read more of the Odin Project lessons
 
 12: Established basic rules for this challenge
-
-### R1D2
