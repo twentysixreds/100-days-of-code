@@ -29,3 +29,17 @@ The log of my #100DaysOfCode challenge. Started on [21st October, Saturday, 2023
 11: Read more of the Odin Project lessons
 
 12: Established basic rules for this challenge
+
+### R1D2
+
+1: Unexpectedly wasn't able to return home 
+
+2: This meant plan B - learn basic Python commands from docs
+
+3: I used https://www.pythonanywhere.com/ to practice
+
+4: Will take my machine EVERYWHERE from now on
+
+5: Did some reading on Odin Project
+
+6: One hour of fumbling but at least something
