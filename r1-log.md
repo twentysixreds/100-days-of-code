@@ -32,7 +32,7 @@ The log of my #100DaysOfCode challenge. Started on [21st October, Saturday, 2023
 
 ### R1D2
 
-1: Unexpectedly wasn't able to return home 
+1: Unexpectedly wasn't able to return home
 
 2: This meant plan B - learn basic Python commands from docs
 
@@ -43,3 +43,9 @@ The log of my #100DaysOfCode challenge. Started on [21st October, Saturday, 2023
 5: Did some reading on Odin Project
 
 6: One hour of fumbling but at least something
+
+### R1D3
+
+1: More life stuff got in the way
+
+2: Went through Traversy Media Modern JS course
