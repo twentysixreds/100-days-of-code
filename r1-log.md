@@ -49,3 +49,9 @@ The log of my #100DaysOfCode challenge. Started on [21st October, Saturday, 2023
 1: More life stuff got in the way
 
 2: Went through Traversy Media Modern JS course
+
+### R1D3
+
+1: More Modern JS
+
+2: Slow. Life causing brain fog. May need to go back over.
