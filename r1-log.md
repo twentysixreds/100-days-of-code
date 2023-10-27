@@ -65,3 +65,13 @@ The log of my #100DaysOfCode challenge. Started on [21st October, Saturday, 2023
 1: Modern JS, slowly
 
 2: Planning on using local library for longer sesssion tomorrow
+
+### R1D7
+
+1: Modern JS continues
+
+2: Life stress is high meaning focus is low
+
+3: Will go over the same things until they stick
+
+4: I need to facilitate flow as best as I can
