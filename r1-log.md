@@ -59,3 +59,9 @@ The log of my #100DaysOfCode challenge. Started on [21st October, Saturday, 2023
 ### R1D5
 
 1: Continued Modern JS, much better brain today
+
+### R1D6
+
+1: Modern JS, slowly
+
+2: Planning on using local library for longer sesssion tomorrow
