@@ -75,3 +75,13 @@ The log of my #100DaysOfCode challenge. Started on [21st October, Saturday, 2023
 3: Will go over the same things until they stick
 
 4: I need to facilitate flow as best as I can
+
+### R1D8
+
+1: I missed a day due to stress which is ok rules wise
+
+2: Modern JS, I grasp it but it will take a while to be memorised
+
+3: The loss of my reading glasses is taking a toll
+
+4: I'm progressing at least
