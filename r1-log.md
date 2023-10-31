@@ -85,3 +85,7 @@ The log of my #100DaysOfCode challenge. Started on [21st October, Saturday, 2023
 3: The loss of my reading glasses is taking a toll
 
 4: I'm progressing at least
+
+### R1D9
+
+1: Modern JS
