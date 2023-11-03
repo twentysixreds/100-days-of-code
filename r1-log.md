@@ -89,3 +89,17 @@ The log of my #100DaysOfCode challenge. Started on [21st October, Saturday, 2023
 ### R1D9
 
 1: Modern JS
+
+### R1D10
+
+1: Continuing with Modern JS
+
+2: Brain starting to feel ok about not retaining all extra information
+
+3: Crucially, I understand so far
+
+4: I will run into parts I'll need to research for lack of undersanding
+
+5: Much better today!
+
+### R1D11
