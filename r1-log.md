@@ -103,3 +103,13 @@ The log of my #100DaysOfCode challenge. Started on [21st October, Saturday, 2023
 5: Much better today!
 
 ### R1D11
+
+1: Modern JS will continue for a lot of days
+
+2: Got to a part with an actual test/challenge will go back next time
+
+3: Have to try do this earlier in the day
+
+4: Kinda worried because AI will code everything with an LLM soon
+
+5: Even so, learning is rewarding in the end. Frustrating but rewarding
