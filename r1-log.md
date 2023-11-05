@@ -113,3 +113,15 @@ The log of my #100DaysOfCode challenge. Started on [21st October, Saturday, 2023
 4: Kinda worried because AI will code everything with an LLM soon
 
 5: Even so, learning is rewarding in the end. Frustrating but rewarding
+
+### R1D12
+
+1: Challenges aka no hand holding are tough
+
+2: I looked over a previous lesson for hints
+
+3: I did actually reach my own, unorthodox solution
+
+4: I'm not too discouraged, I've been very tired/stressed
+
+5: Must must do this earlier in the day
