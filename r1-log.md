@@ -114,8 +114,6 @@ The log of my #100DaysOfCode challenge. Started on [21st October, Saturday, 2023
 
 5: Even so, learning is rewarding in the end. Frustrating but rewarding
 
-### R1D12
-
 1: Challenges aka no hand holding are tough
 
 2: I looked over a previous lesson for hints
@@ -125,3 +123,11 @@ The log of my #100DaysOfCode challenge. Started on [21st October, Saturday, 2023
 4: I'm not too discouraged, I've been very tired/stressed
 
 5: Must must do this earlier in the day
+
+### R1D13
+
+1: Forgot to upload/update!
+
+2: Still modern JS, moving on to Python for a change soon
+
+3: Also got a project with React Native/Python/Raspberry Pi coming
