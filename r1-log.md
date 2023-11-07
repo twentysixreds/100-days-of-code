@@ -131,3 +131,19 @@ The log of my #100DaysOfCode challenge. Started on [21st October, Saturday, 2023
 2: Still modern JS, moving on to Python for a change soon
 
 3: Also got a project with React Native/Python/Raspberry Pi coming
+
+### R1D14
+
+1: Looked at React basics JS and Native. For Pi Project will be good
+
+2: Challenges in JS course are frustrating, memory not good
+
+3: Will need to go over lessons from beginning several times to cement
+
+4: Apparently this is normal
+
+5: Earlier I used Khan Academy for basic JS, good resource
+
+6: My brain will take time to feel comfortable/gain strength
+
+7: I need to remember that I don't always understand conventional methods of tuition and not be so hard on myself
