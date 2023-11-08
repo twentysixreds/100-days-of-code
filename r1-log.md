@@ -147,3 +147,11 @@ The log of my #100DaysOfCode challenge. Started on [21st October, Saturday, 2023
 6: My brain will take time to feel comfortable/gain strength
 
 7: I need to remember that I don't always understand conventional methods of tuition and not be so hard on myself
+
+### R1D15
+
+1: Went over Modern JS lessons so far. Don't feel as if I can advance without being able to nail the basics
+
+2: Passed out with my laptop, didn't update/push to GitHub
+
+### R1D16
