@@ -155,3 +155,11 @@ The log of my #100DaysOfCode challenge. Started on [21st October, Saturday, 2023
 2: Passed out with my laptop, didn't update/push to GitHub
 
 ### R1D16
+
+1: Going over lessons already covered again. This is pit of despair stuff
+
+2: I've questioned if it's the course/tutor but he's got a great reputation so I feel really dumb
+
+3: My life won't be my own very soon, this is very depressing
+
+4: GREAT
