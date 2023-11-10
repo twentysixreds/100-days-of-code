@@ -163,3 +163,15 @@ The log of my #100DaysOfCode challenge. Started on [21st October, Saturday, 2023
 3: My life won't be my own very soon, this is very depressing
 
 4: GREAT
+
+### R1D17
+
+1: Used coding apps today to have a break from JS
+
+2: Sololearn, Mimo and Brilliant - all useful/fun
+
+3: I'm not afraid of algebra anymore but I don't like it
+
+4: Variables/loops all covered today
+
+5: Refreshing way to learn/cover old ground
