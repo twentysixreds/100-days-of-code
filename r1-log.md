@@ -175,3 +175,13 @@ The log of my #100DaysOfCode challenge. Started on [21st October, Saturday, 2023
 4: Variables/loops all covered today
 
 5: Refreshing way to learn/cover old ground
+
+### R1D18
+
+1: Used coding apps again
+
+2: Brilliant is helping me discover maths and not be afraid
+
+3: Lapses in concentration due to stress
+
+4: Still feels like snails pace
