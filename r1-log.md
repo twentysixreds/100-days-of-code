@@ -185,3 +185,13 @@ The log of my #100DaysOfCode challenge. Started on [21st October, Saturday, 2023
 3: Lapses in concentration due to stress
 
 4: Still feels like snails pace
+
+### R1D19
+
+1: Daily coding apps
+
+2: Daily Brilliant helping my understanding of code
+
+3: Went back over Modern JS course
+
+4: Life stress really getting in the way of focus
