@@ -195,3 +195,13 @@ The log of my #100DaysOfCode challenge. Started on [21st October, Saturday, 2023
 3: Went back over Modern JS course
 
 4: Life stress really getting in the way of focus
+
+### R1D20
+
+1: Using daily code apps aside from main course
+
+2: Interleaving learning keeps from becomming boring
+
+3: Went over challenge I had solved in non-standard way and reinforced several ways of solving the same problem
+
+4: Am using GitHub CoPilot Chat to merely explain code as an extra teacher/coach. Technically uses GPT but is helping me learn which is top priority
