@@ -213,3 +213,19 @@ The log of my #100DaysOfCode challenge. Started on [21st October, Saturday, 2023
 2: Getting used to basic concepts
 
 3: I need to go over things at least twice before things start to stick
+
+### R1D22
+
+1: Spent a few hours trying to make two GTPs
+
+2: Not confident enough to use actions in order to make API calls. Will find a simple course on using APIs and experiment
+
+3: Started 100 Days of Python (Udemy Course) which has been frustrating yet rewarding when solving the problems.
+
+4: Learning JS and Python helps cement common programming skills and prevents boredom
+
+5: Today I wanted to do it all, but I did focus on Python in the end
+
+6: My eye is recovering already, scary for a while.
+
+7: Day 22 done!
