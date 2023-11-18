@@ -229,3 +229,9 @@ The log of my #100DaysOfCode challenge. Started on [21st October, Saturday, 2023
 6: My eye is recovering already, scary for a while.
 
 7: Day 22 done!
+
+### R1D23
+
+1: More Python
+
+2: Brain definitely not working today
