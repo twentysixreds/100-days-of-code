@@ -235,3 +235,15 @@ The log of my #100DaysOfCode challenge. Started on [21st October, Saturday, 2023
 1: More Python
 
 2: Brain definitely not working today
+
+### R1D23
+
+1: Continuing with Python course
+
+2: Spent the earlier part of the day cementing how varaibles are transfered specifically swapping the output of two numbers from a then b to b then a using another variable c as a temporary way to switch the numbers around so c = a, a = b, b = c
+
+3: Completed Band Name Generator app using inputs and variables/printing the concatinated result
+
+4: Worked on data types in Python, completed challenge in my own way which passed the test then saw the solution is different because Auditorium works with preset inputs which confused me but I understood in the end
+
+5: Looking forward to using Python for something real world although will take time
