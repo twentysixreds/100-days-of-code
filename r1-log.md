@@ -236,7 +236,7 @@ The log of my #100DaysOfCode challenge. Started on [21st October, Saturday, 2023
 
 2: Brain definitely not working today
 
-### R1D23
+### R1D24
 
 1: Continuing with Python course
 
