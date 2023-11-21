@@ -247,3 +247,11 @@ The log of my #100DaysOfCode challenge. Started on [21st October, Saturday, 2023
 4: Worked on data types in Python, completed challenge in my own way which passed the test then saw the solution is different because Auditorium works with preset inputs which confused me but I understood in the end
 
 5: Looking forward to using Python for something real world although will take time
+
+### R1D25
+
+1: Slow day
+
+2: Used apps to train maths, still can't make it stick
+
+3: Updated my website with a blog. Looks good. Easy iframe code
