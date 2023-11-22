@@ -255,3 +255,11 @@ The log of my #100DaysOfCode challenge. Started on [21st October, Saturday, 2023
 2: Used apps to train maths, still can't make it stick
 
 3: Updated my website with a blog. Looks good. Easy iframe code
+
+### R1D26
+
+1: Got lost in the Scriptable docs, potential is huge. Made simple widget with almost zero code including using the Open Weather API. It's a no-code widget but I looked at the code and edited it so break whatever I could to learn.
+
+2: Considering Pythonista or Pyto app - not much information on Pyto - seeems to come with more though.
+
+3: I'm interested in using APIs and integrating on my website. Might build a very simple site which is nothing but API calls for various metrics
